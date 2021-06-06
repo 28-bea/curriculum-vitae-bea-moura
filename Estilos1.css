@@ -1,0 +1,90 @@
+body {
+    background: #B1C9C3;
+}
+
+nav li {
+
+    display: inline;
+    font-family: "Prata Regular";
+    overflow: hidden;
+  border: 1px solid #B1C9C3;
+  background-color: #B1C9C3;
+}
+
+
+
+.paginaprincipal {
+    padding-left: 800px;
+    font-size: 40px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+.sobremim {
+    padding-left: -1000px;
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+.portfolio {
+    padding-left: -400px;
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+.contactos {
+    padding-left: -400px;
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+img {
+    margin-left: 450px;
+}
+
+h1 {
+    font-size: 18px;
+    color: #F7F6F4;
+    font-family: "Prata Regular";
+    font-weight: 70;
+    margin-left: 800px;
+    margin-right: 300px;
+    margin-top: -150px;
+    padding-top: -700px;
+}
+
+h2 {
+    font-size: 14px;
+    color: #F7F6F4;
+    font-family: "Prata Regular";
+    font-weight: 70;
+    margin-left: 800px;
+    margin-right: 300px;
+    margin-top: -3px;
+    padding-top: -700px;
+}
+
+.hithere {
+    font-size: 30px;
+    color: #EE6E5D;
+    font-family: "Prata Regular";
+    font-weight: 50px;
+    margin-left: 450px;
+    margin-top: -430px;    
+}
+
+.imbea {
+    font-size: 30px;
+    color: #EE6E5D;
+    font-family: "Prata Regular";
+    font-weight: 50px;
+     margin-left: 450px;
+    margin-top: -30px; 
+   
+}

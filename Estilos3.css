@@ -1,0 +1,78 @@
+body {
+    background: #EE6E5D;
+}
+nav li {
+
+    display: inline;
+    font-family: "Prata Regular", sans-serif;
+}
+
+
+.paginaprincipal {
+    padding-left: 1200px;
+    font-size: 40px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+.sobremim {
+    padding-left: -1000px;
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+.portfolio {
+    padding-left: -400px;
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+.contactos {
+    padding-left: -400px;
+    margin: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #F7F6F4;
+}
+
+h2{ color: #F7F6F4;
+font-family: "Poppins Light", sans-serif;
+font-weight: 100;
+font-size: 30px;
+list-style: none;
+margin-right: 700px;
+margin-top: 230px;
+line-height: 70px;
+float: right;}
+
+.mail {color: #F7F6F4;
+text-decoration: underline;}
+
+.insta {color: #F7F6F4;
+text-decoration: underline;}
+
+.icones {list-style: none;
+line-height: 70px;
+   
+}
+
+.iconemail {margin-left: 590px;
+    margin-top: 250px; 
+padding-bottom: -30;
+margin-bottom: 10;}
+
+.iconephone {margin-left: 590px;
+   padding-top: -10;
+    padding-bottom: 20;
+}
+
+.iconeig {margin-left: 595px;
+    margin-top: -70px;
+    padding-bottom: 20px;
+}
+
+
